@@ -1,6 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Sajana+Movindu!;Frontend+Developer;Content+Creator;Tech+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Hi+👋,+I'm+Sajana+Movindu;Frontend+Developer;Content+Creator;Tech+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
 
 <h3 align="center">An undergraduate Computer Science student passionate about frontend development</h3>
